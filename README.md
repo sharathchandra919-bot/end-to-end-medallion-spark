@@ -22,8 +22,13 @@ dbt docs serve # for documentation preview
 
 Resources:
 Medium Article
+
 DBT
+
 Databricks
+
 Azure
+
 Azure Data Factory
+
 Azure Data Lake Storage Gen2
